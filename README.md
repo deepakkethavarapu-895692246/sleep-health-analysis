@@ -10,10 +10,10 @@ A data analysis project exploring relationships between sleep health, stress lev
 - Created comprehensive visualizations of sleep health patterns
 
 ## Tools & Technologies
-- Python — Pandas, NumPy, Scikit-learn
-- Visualization — Matplotlib, Seaborn
-- Machine Learning — Linear Regression
-- Analysis — Correlation analysis, Statistical distributions
+- Python: Pandas, NumPy, Scikit-learn
+- Visualization: Matplotlib, Seaborn
+- Machine Learning: Linear Regression
+- Analysis: Correlation analysis, Statistical distributions
 
 ## Dataset
 - Features: Sleep Duration, Stress Level, Physical Activity Level, Heart Rate, Daily Steps
